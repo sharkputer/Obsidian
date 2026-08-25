@@ -1,9 +1,12 @@
 ---
-title: "AI 게임플레이 시스템 아키텍처"
+title: AI 게임플레이 시스템 아키텍처
 type: session-note
-project: "아이디어"
-domain: "AI 게임 자동화"
-tags: [AI게임플레이, 아키텍처, 기술설계]
+project: 아이디어
+domain: AI 게임 자동화
+tags:
+  - AI게임플레이
+  - 아키텍처
+  - 기술설계
 created: 2026-08-25
 updated: 2026-08-25
 status: draft
